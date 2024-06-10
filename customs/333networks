@@ -10,3 +10,7 @@
 77.169.52.228 master.gonespy.com
 212.71.247.194 master-uk.unrealarchive.org
 172.104.247.54 master-de.unrealarchive.org
+
+||master.gamespy.com^$dnsrewrite=NOERROR;CNAME;master.333networks.com
+||utmaster.epicgames.com^$dnsrewrite=NOERROR;CNAME;master.333networks.com
+||ut2004master.epicgames.com^$dnsrewrite=NOERROR;CNAME;master.333networks.com
