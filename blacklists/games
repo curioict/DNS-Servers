@@ -1,0 +1,6 @@
+# Title: Game Blacklist
+# Issue tracker: https://github.com/curioict/DNS-Servers/issues
+# Description: Blacklist DNS Lookups for games.
+
+# Pokemonshowdown
+||play.pokemonshowdown.com^

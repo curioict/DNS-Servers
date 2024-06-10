@@ -1,0 +1,42 @@
+# Title: VPN DNS Host List
+# Issue tracker: https://github.com/curioict/DNS-Servers/issues
+# Description: Dropping DNS Lookups to well-known VPN services.
+
+# Proton VPN
+||protonvpn.com^
+||vpn-api.proton.me^
+||download.protonvpn.net^
+
+# Hola VPN
+||holavpn.net^
+||holavpnextension.com^
+
+# H VPN
+||h-vpn.org^
+
+# WL VPN
+||api.wlvpn.com^
+||ipgeo.wlvpn.com^
+
+# Avira-VPN
+||api.phantom.avira-vpn.com^
+||avira-vpn.com^
+
+# NorthVPN
+||api.nordvpn.com^
+||debug.nordvpn.com^
+||nordvpn.com^
+
+# ExpressVPN
+||www.expressvpn.works^
+
+# Cyber Ghost VPN
+||cyberghostvpn.com^
+
+# itopvpn.com
+||api.itopvpn.com^
+
+# Privado VPN
+||check.privadovpn.com^
+||app.privadovpn.com^
+||vpn.privado.io^

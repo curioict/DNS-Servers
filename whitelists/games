@@ -1,0 +1,6 @@
+# Title: Game Whitelist
+# Issue tracker: https://github.com/curioict/DNS-Servers/issues
+# Description: Whitelist DNS Lookups for games.
+
+# Minecraft Auth Servers
+@@||sessionserver.mojang.com^
