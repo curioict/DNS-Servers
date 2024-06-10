@@ -11,6 +11,13 @@
 212.71.247.194 master-uk.unrealarchive.org
 172.104.247.54 master-de.unrealarchive.org
 
-||master.gamespy.com^$dnsrewrite=NOERROR;CNAME;master.333networks.com
+||master*.gamespy.com^$dnsrewrite=NOERROR;A;81.205.81.173
+||master.333networks.com^$dnsrewrite=NOERROR;A;81.205.81.173
+||master.errorist.eu^$dnsrewrite=NOERROR;A;150.230.23.146
+||master.newbiesplayground.net^$dnsrewrite=NOERROR;A;199.247.4.173
+||master.gonespy.com^$dnsrewrite=NOERROR;A;77.169.52.228
+||master-uk.unrealarchive.org^$dnsrewrite=NOERROR;A;212.71.247.194
+||master-de.unrealarchive.org^$dnsrewrite=NOERROR;A;172.104.247.54
+
 ||utmaster.epicgames.com^$dnsrewrite=NOERROR;CNAME;master.333networks.com
 ||ut2004master.epicgames.com^$dnsrewrite=NOERROR;CNAME;master.333networks.com
